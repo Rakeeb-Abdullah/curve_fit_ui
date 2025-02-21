@@ -42,6 +42,8 @@ const Description = () => {
                     <li>
                         <strong>React Front-End with Recharts:</strong> The UI is built with <span className="text-blue-400">React</span> for an interactive experience, using <span className="text-blue-400">Recharts</span> for dynamic data visualization.
                     </li>
+                    <br />
+                    *You can find the source code at the end of this
                 </ol>
             </section>
 
@@ -78,8 +80,8 @@ const Description = () => {
             <section>
                 <h2 className="text-2xl font-semibold text-white">Source code</h2>
                 <ul className="list-disc list-inside space-y-1">
-                    <li><a href="https://github.com/Rakeeb-Abdullah/curve_fit_ui">Frontend</a></li>
-                    <li><a href="https://github.com/Rakeeb-Abdullah/curve_fit_backend">Backend</a></li>
+                    <li><a target='_blank' href="https://github.com/Rakeeb-Abdullah/curve_fit_ui">Frontend</a></li>
+                    <li><a target='_blank' href="https://github.com/Rakeeb-Abdullah/curve_fit_backend">Backend</a></li>
 
                 </ul>
             </section>
