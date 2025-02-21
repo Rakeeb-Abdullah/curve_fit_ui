@@ -65,8 +65,6 @@ What makes this project special to me is how it brings together all of my core p
 
 ## 🙌 Thanks for Checking This Out!
 
-Feel free to reach out if you have feedback, suggestions, or just want to geek out about physics, math, or code! 🚀✨
+Feel free to reach out if you have feedback, suggestions 🚀✨
 
 ---
-
-This **README.md** is ready to drop into your repo! Let me know if you'd like any edits or additions. 🚀
