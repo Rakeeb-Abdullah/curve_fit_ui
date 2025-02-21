@@ -75,7 +75,14 @@ const Description = () => {
                     <li>Integrate into a broader <strong>scientific computing platform</strong>.</li>
                 </ul>
             </section>
+            <section>
+                <h2 className="text-2xl font-semibold text-white">Source code</h2>
+                <ul className="list-disc list-inside space-y-1">
+                    <li><a href="https://github.com/Rakeeb-Abdullah/curve_fit_ui">Frontend</a></li>
+                    <li><a href="https://github.com/Rakeeb-Abdullah/curve_fit_backend">Backend</a></li>
 
+                </ul>
+            </section>
             <p className="text-center text-gray-400 italic mt-6">
                 🙌 Thanks for checking this out! 🚀✨
             </p>
