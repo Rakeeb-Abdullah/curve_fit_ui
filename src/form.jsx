@@ -45,7 +45,7 @@ const Form = ({ setData, data, setLineData }) => {
         console.log(X)
         console.log(data)
         setLoading(true)
-        fetch('https://curve-fit-backend-l5vcrui1l-rakeeb-abd.vercel.app/data/', {
+        fetch('https://curve-fit-backend.vercel.app/data/', {
             method: 'POST',
             headers: {
                 Accept: "application/json",
